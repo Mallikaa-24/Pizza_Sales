@@ -1,5 +1,7 @@
 # Pizza Sales Dashboard (Tableau + SQL Project)
 
+![SQL + Tableu](https://github.com/Mallikaa-24/Pizza_Sales/blob/main/SQL%2BTableau.jpg)
+
 ## Overview
 This project involves a comprehensive analysis of pizza sales data using PostgreSQL and Tableau. The goal is to extract meaningful business insights by first performing data cleaning and transformation using SQL, followed by dynamic visualization in Tableau. The project demonstrates the end-to-end process of data preparation, analysis, and dashboard creation to support informed business decision-making.The following README provides a detailed account of the project's objectives, business problems, SQL queries, Tableau dashboards, findings, and conclusions.
 

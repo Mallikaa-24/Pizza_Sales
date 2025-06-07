@@ -182,6 +182,7 @@ ORDER BY 2 ASC limit 5;
 ```
 
 ## Dashboard Features
+![Dashboard1](https://github.com/Mallikaa-24/Pizza_Sales/blob/main/Dashboard1.png)) ![Dashboard2](https://github.com/Mallikaa-24/Pizza_Sales/blob/main/Dashboard2.png))
 
 - Key Metrics (Total Revenue, Total Orders, Avg Order Value)
 - Hourly Orders (Line chart showing peak order times)
